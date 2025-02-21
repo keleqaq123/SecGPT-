@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5fa38fd-ca14-425b-9a89-75c5e6f3da8a)# SecGPT-模型介绍
+# SecGPT-模型介绍
 
 SecGPT的愿景是将人工智能技术引入网络安全领域，以提高网络防御的效率和效果。其使命是推动网络安全智能化，为社会提供更安全的数字生活环境。
 SecGPT可以作为基座安全模型，用于探索各种网络安全任务。以下是对SecGPT在网络安全任务中可能应用的进一步探讨：
